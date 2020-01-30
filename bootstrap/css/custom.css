@@ -1,0 +1,65 @@
+.col-md-10{
+    background-image: url("style/jewelery.jpeg");
+}
+
+.a{
+    text-align: center;
+}
+
+.b{
+    font-weight: bolder;
+}
+
+.c{
+    font-style: italic;
+}
+
+.row_one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+}
+
+.img{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2px;
+}
+
+.s{
+    background-image: url("style/ring.jpeg");
+    width: 90%;
+    height: 50vh;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2px;
+}
+
+.f{
+    font-style: italic;
+    text-align: center;
+    color: white;
+}
+
+.e{
+    font-weight: bolder;
+    text-align: center;
+    color: white;
+}
+
+.btn-warning{
+    margin-right: 40%;
+    margin-left: 40%;
+}
+
+.nav-link{
+   color: white;
+}
+
+.nav-link_one{
+    color: #fff01a;
+    font-style: italic;
+    font-size: 24px;
+    font-family: cursive;
+}

@@ -1,0 +1,106 @@
+.col-md-10{
+    background-image: url("style/jewelery.jpeg");
+}
+
+.a{
+    text-align: center;
+}
+
+.b{
+    font-weight: bolder;
+}
+
+.c{
+    font-style: italic;
+}
+
+.row_one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+}
+
+.img{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2px;
+}
+
+.s{
+    background-image: url("ims/rose.jpeg");
+    width: 90%;
+    height: 50vh;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2px;
+}
+
+.f{
+    text-align: left;
+    color: black;
+    margin-left: 5%;
+}
+
+.e{
+    font-weight: bolder;
+    text-align: center;
+    color: white;
+}
+
+
+.nav-link{
+    color: white;
+}
+
+.nav-link_one{
+    color: #fff01a;
+    font-style: italic;
+    font-size: 24px;
+    font-family: cursive;
+}
+
+.y{
+    background-color: white;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 95%;
+    height: 10vh;
+}
+
+.z{
+    margin-left: 3%;
+    font-weight: bolder;
+    padding-top: 16px;
+}
+
+.t{
+    margin-left: 5%;
+}
+
+.k{
+    margin-left: 5%;
+}
+
+.btn-warning{
+    margin-left: 5%;
+    background-color: #24f59b;
+}
+
+.btn-danger{
+    background-color: white;
+    color: black;o
+}
+
+.o{
+    margin-left: 5%;
+}
+
+.p{
+    margin-left: 5%;
+}
+
+.l{
+    padding-bottom: 8px;
+}
+

@@ -1,0 +1,43 @@
+.a{
+    text-align: center;
+}
+
+.nav-link{
+    color: black;
+}
+
+.nav-link_one{
+    color: darkgreen;
+}
+
+.nav-link:hover{
+    background-color: white;
+    color: darkgreen;
+}
+
+.c{
+    width: 7%;
+    height: 10vh;
+    margin-right: 45%;
+    margin-left: 46%;
+    justify-content: center;
+    align-items: center;
+}
+
+.hr{
+    color: darkgreen;
+}
+
+.d{
+    text-align: center;
+}
+
+.e{
+    text-align: center;
+}
+.row_one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
